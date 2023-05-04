@@ -4,7 +4,7 @@ import Image from '/public/images/restaurant.jpg';
 
 export default function AboutLittleLemon() {  
     return (
-      <div className="relative border-4 border-red-500  h-2.5">
+      <div className="relative">
         <picture>
           <source
             srcSet={ImageLg}
@@ -20,9 +20,7 @@ export default function AboutLittleLemon() {
           <img src={Image} />
         </picture>
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-center text-white w-full">
-          <h3 className="md:text-2xl lg:text-3xl mb-1 font-bold">
-            About Little Lemon
-          </h3>
+          <h3 className="md:text-2xl lg:text-3xl mb-1 font-bold">About Little Lemon</h3>
           <p>
             We offer word class restaurant services
             <br />
