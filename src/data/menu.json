@@ -3,18 +3,18 @@
     "name": "Indomie",
     "description": "Indomie Instant Noodles is served without soup and is stirred well with soysauce, oil, and seasoning.",
     "id": "1",
-    "image": "/src/assets/images/dish1.jpg"
+    "image": "/public/images/dish1.jpg"
   },
   {
     "name": "Shawarma",
     "description": "Shawarma is a popular Middle Eastern dish that originated in the Ottoman Empire, consisting of meat cut into thin slices, stacked in an inverted cone, and roasted on a slowly turning vertical rotisserie or spit.",
     "id": "2",
-    "image": "/src/assets/images/dish2.jpg"
+    "image": "/public/images/dish2.jpg"
   },
   {
     "name": "Strawberry Ice Cream",
     "description": "This Homemade Strawberry Ice Cream is creamy, dreamy, and made with fresh strawberries. It’s an old fashioned strawberry ice cream recipe that makes it the perfect spring or summer dessert.",
     "id": "3",
-    "image": "/src/assets/images/dish3.jpg"
+    "image": "/public/images/dish3.jpg"
   }
 ]

@@ -33,7 +33,7 @@ const navigate = useNavigate();
 navigate('/')
   }
   return (
-    <div>
+    <div className="max-w-md p-5 border-rose-900 border">
       <p className="text-green-500 font-bold mb-5 px-5">
         Congratulations! You have successfully reserved a table
       </p>

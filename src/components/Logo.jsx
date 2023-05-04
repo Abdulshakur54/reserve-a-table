@@ -1,4 +1,4 @@
-import logo from "../assets/images/little_lemon.jpg";
+import logo from "/public/images/little_lemon.jpg";
 import { useState, useEffect } from "react";
 const Logo = () => {
   const [store, setStore] = useState({ device: "mobile", size: 70 });
